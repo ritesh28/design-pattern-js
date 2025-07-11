@@ -40,13 +40,13 @@ Grouping of Design Patterns:
 
 ### Creational Design Pattern
 
-| Name             | Description                                                                                                              | Image | Code                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ----- | -------------------------------------- |
-| Singleton        | Ensures a class has only one instance and provides a global point of access to it.                                       |       | ![Code](22-creational-singleton)       |
-| Factory Method   | Defines an interface for creating objects, but lets subclasses decide which class to instantiate.                        |       | ![Code](22-creational-factoryMethod)   |
-| Abstract Factory | Provides an interface for creating families of related or dependent objects without specifying their concrete classes.   |       | ![Code](22-creational-abstractFactory) |
-| Builder          | Separates the construction of a complex object from its representation.                                                  |       | ![Code](22-creational-builder)         |
-| Prototype        | Specifies the kind of objects to create using a prototypical instance and creates new objects by cloning this prototype. |       | ![Code](22-creational-prototype)       |
+| Name             | Description                                                                                                              | Image | Code                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ----- | ------------------------------------- |
+| Singleton        | Ensures a class has only one instance and provides a global point of access to it.                                       |       | [Code](23-creational-singleton)       |
+| Factory Method   | Defines an interface for creating objects, but lets subclasses decide which class to instantiate.                        |       | [Code](20-creational-factoryMethod)   |
+| Abstract Factory | Provides an interface for creating families of related or dependent objects without specifying their concrete classes.   |       | [Code](21-creational-abstractFactory) |
+| Builder          | Separates the construction of a complex object from its representation.                                                  |       | [Code](22-creational-builder)         |
+| Prototype        | Specifies the kind of objects to create using a prototypical instance and creates new objects by cloning this prototype. |       | [Code](19-creational-prototype)       |
 
 # TODO
 
