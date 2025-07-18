@@ -1,4 +1,6 @@
-**Design patterns** are typical solutions to common problems in software design
+![Design Patterns](./Design%20Patterns.png)
+
+**Design patterns** are typical solutions to common problems in software design.
 
 Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
 
@@ -50,5 +52,5 @@ Grouping of Design Patterns:
 
 # TODO
 
-Behavioral - Interpreter
-Add Image ad code to the tables
+- Behavioral - Interpreter
+- Add Image ad code to the tables
